@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oomaephee.matthewcare.co.uk/sitemap.xml
